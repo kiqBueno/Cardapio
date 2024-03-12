@@ -1,0 +1,41 @@
+.card {
+    width: 18em;
+}
+
+.card .cabecalho {
+    background-color:  #F0F0F0;
+    border-radius: 10px 10px 0px 0px;
+}
+.card img {
+    width: 10em;
+    height: 10em;
+    border-radius: 10%;
+    position: relative;
+    bottom: -4em;
+}
+
+.card .rodape {
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 5em;
+    padding-bottom: 2em;
+}
+
+.card .rodape h4 {
+    color: #6278F7;
+    font-size: 2em;
+    line-height: 1em;
+    font-weight: bold;
+}
+
+.card .rodape h5 {
+    font-size: 1.5em;
+    line-height: 1em;
+    color: #000;
+}
+
+.card .rodape h1 {
+    font-size: 1.5em;
+    color: #212121;
+}
